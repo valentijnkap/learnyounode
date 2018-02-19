@@ -2,7 +2,7 @@
 var fs = require('fs')
 var path = require('path')
 
-// Export
+// Export module
 module.exports = ft
 
 // The module export

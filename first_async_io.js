@@ -1,7 +1,7 @@
-// Store the file system module
+// Dependencies
 var fs = require('fs')
 
-// Checks the file and uses the callback countlines
+// Checks the file and uses the callback countLines
 fs.readFile(process.argv[2], countLines)
 
 // Declare the callback function
