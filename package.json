@@ -1,0 +1,26 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "description": "Solutions for the nodeschool course",
+  "main": "-",
+  "dependencies": {
+    "bl": "^1.2.1",
+    "file-system": "^2.2.2",
+    "http": "^0.0.0",
+    "net": "^1.0.2",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "-"
+  },
+  "repository": {
+    "type": "git",
+    "url": "-"
+  },
+  "keywords": [
+    "Nodeschool"
+  ],
+  "author": "Valentijn Kap <info@valentijnkap.nl>",
+  "license": "ISC"
+}
